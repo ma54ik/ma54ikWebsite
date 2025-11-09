@@ -14,3 +14,10 @@ title: Ich über mich
     <img src="/assets/images/ich.jpg" style="width: 250px; margin-top: 30px;">
   </div>
 </div>
+<h2>Core Values</h2>
+<h4>Beharrlichkeit</h4>
+<p>Gehe jedes Ziel mit Entschlossenheit, Ehrgeiz und Leidenschaft an, bis dieses erreicht ist.</p>
+<h4>Courage</h4>
+<p>Stelle dich Ungewissheiten, Widerständen und Ängsten und verstehe sie als Ort für Lernen, Heilung und Wachstum.</p>
+<h4>Neugier</h4>
+<p>Probiere Neues und hinterfrage alles. Lernen heißt leben.</p>
