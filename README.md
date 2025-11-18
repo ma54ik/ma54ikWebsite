@@ -1,2 +1,2 @@
-# ma54ik.github.io
-web page and blog
+# ma54ikWebsite
+website and blog
